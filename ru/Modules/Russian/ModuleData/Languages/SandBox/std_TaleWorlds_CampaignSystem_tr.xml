@@ -10,11 +10,11 @@
     <string id="03DZpTYi" text="Вы находитесь в розыске."/>
     <string id="03lc5R2t" text="Вы пытались убедить меня. Я не буду опять стоять ваши слова."/>
     <string id="045duyBq" text="{HERO.LINK} has arrived at {SETTLEMENT}"/>
-    <string id="053isUut" text="HuscarlFightingSkills"/>
+    <string id="053isUut" text="Боевые навыки хускарла"/>
     <string id="07qBenIW" text="кувшин Эля"/>
     <string id="07QlFlXK" text="тарелка селедки"/>
     <string id="09gOOa0h" text="Следопыт"/>
-    <string id="0aGYre5B" text="{LEADER.LINK} has arrived at {ARMY_NAME}."/>
+    <string id="0aGYre5B" text="{LEADER.LINK} прибыл {ARMY_NAME}."/>
     <string id="0aU9dtvV" text="Время:"/>
     <string id="0AUZvSAq" text="{COMPANY_OF_TROUBLE_PERSUADE_ATTEMPT_1}"/>
     <string id="0aXG8dvJ" text="Vote for making peace with {KINGDOM_NAME}"/>
@@ -2402,44 +2402,44 @@
     <string id="SK43eB6y" text="Возвращение в армию"/>
     <string id="SlmhqqH8" text="Городские Стены"/>
     <string id="sLv7MMJf" text="Войны Пайков"/>
-    <string id="Sm1KIBz7" text="RomanHair"/>
+    <string id="Sm1KIBz7" text="Roman Hair"/>
     <string id="sMCN7eCp" text="Есть ли другой способ решить эту проблему?"/>
-    <string id="sMFdChlr" text="Вас отказал продавца. Товар остался с вами."/>
-    <string id="SN3pjZiK" text="You received a message from {QUEST_GIVER.LINK}.    &quot;Thank you for clearing out that bandits' nest. Please accept thes {REWARD} denars with our gratitude.&quot;"/>
+    <string id="sMFdChlr" text="Вам отказал продавец. Товар остался у вас."/>
+    <string id="SN3pjZiK" text="Вы получили сообщение от {QUEST_GIVER.LINK}. &quot;Спасибо что избавили нас от этого бандитского гнезда. Пожалуйста примите эти {REWARD} денары в знак нашей благодарности.&quot;"/>
     <string id="Sn9a1Aba" text="два мертворожденных младенца"/>
     <string id="SNH3PagC" text="Увеличить скорость обучения новой части конструкций при плавке на 100%."/>
     <string id="snSBfQkV" text="Подвиги"/>
     <string id="SP7I61x2" text="Возможно, мы можем поговорить, когда мы встретимся снова."/>
     <string id="sP9ohQTs" text="Забудь"/>
-    <string id="spbYlf0y" text="Faster siege engine production +{a0}%"/>
-    <string id="sPEZq0Yk" text="Что соус для гусыни является соусом для Гусака. Мы сделали бизнес на такой лет и мы не просто собираемся изменить вещи, потому что одна сторона жалуется."/>
-    <string id="spj8bYVo" text="Хорошо! Я буду отмечать укрытием для вас на карте."/>
+    <string id="spbYlf0y" text="Ускорееное производство осадных орудий +{a0}%"/>
+    <string id="sPEZq0Yk" text="Что соус для гусыни является соусом для Гусака. Мы сделали бизнес на такой лад и мы не собираемся ничего менять, лишь только потому что одна сторона жалуется."/>
+    <string id="spj8bYVo" text="Хорошо! Я отмечу укрытие для вас на карте."/>
     <string id="sPmQz21k" text="Враг"/>
-    <string id="sptm68bK" text="PersonaIronic"/>
-    <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} needs grain seeds"/>
-    <string id="sQCS90Wq" text="Bow Accuracy: +{a0} %"/>
-    <string id="sqMUtasn" text="Дешевые, одноразовые и эффективным. Что вы говорите?"/>
-    <string id="srbMyPXl" text="You can have one of my companions and {REQUIRED_TROOP_AMOUNT} of my men to take your goods to {TARGET_TOWN}"/>
-    <string id="sRBvUj6U" text="The deserter party is defeated. Return back to {QUEST_GIVER.LINK} to claim your rewards."/>
-    <string id="srByX06Y" text="сдача всех граждан отвечать и голосовать по некоторым вопросам"/>
+    <string id="sptm68bK" text="Ироничная персона"/>
+    <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} нужны семена"/>
+    <string id="sQCS90Wq" text="Точность лука: +{a0} %"/>
+    <string id="sqMUtasn" text="Дешевые, одноразовые и эффективные. Что вы говорите?"/>
+    <string id="srbMyPXl" text="Вы можете взять моего компаньона и {REQUIRED_TROOP_AMOUNT} моих людей чтобы доставить товар в {TARGET_TOWN}"/>
+    <string id="sRBvUj6U" text="дезертиры потерпели поражение. Возращайтесь к {QUEST_GIVER.LINK} чтобы получить свою награду."/>
+    <string id="srByX06Y" text="Задача всех граждан отвечать и голосовать по некоторым вопросам"/>
     <string id="SrfYbg3x" text="Лидер"/>
-    <string id="ssbSTbt3" text="Ваша кавалерия наносит 50% больше урона для лучников в симуляции."/>
+    <string id="ssbSTbt3" text="Ваша кавалерия наносит 50% больше урона лучникам в симуляции."/>
     <string id="SSdYsV4R" text="Фехтовальщица Смит"/>
     <string id="ssljPTUr" text="Интересные Люди"/>
     <string id="Stk3PbV4" text="Размещение Лезвия I"/>
     <string id="stmJi5s0" text="Это верно!"/>
-    <string id="SvahUNo6" text="Пленных Выкуп "/>
-    <string id="SVebFiHQ" text="So looks like {ENEMY_NAME} want war with us. Well, I say we show the bastards who we are!"/>
-    <string id="SVrCpvpZ" text="Thank you {PLAYER.NAME}. Our people are grateful to you for what you have done today. Farewell."/>
+    <string id="SvahUNo6" text="Выкуп пленных "/>
+    <string id="SVebFiHQ" text="Похоже {ENEMY_NAME} хотят войны с нами. Что ж, я скажу, мы покажем этим ублюдкам кто мы такие!"/>
+    <string id="SVrCpvpZ" text="Спасибо {PLAYER.NAME}. Наши люди благодарны за то что вы сделали для них сегодня. Прощайте."/>
     <string id="sVXa3zFx" text="Замок"/>
     <string id="SXCudsWT" text="Государственные Монополии"/>
-    <string id="SxkaQbSa" text="Вы приближаетесь к воротам. Мужчины на стенах наблюдать."/>
-    <string id="SxuuGaG7" text="{NEARBY_MOBILE_PARTY_OR_ARMY_NAME} has joined the battle on enemy side."/>
+    <string id="SxkaQbSa" text="Вы приближаетесь к воротам. Люди на стенах наблюдают."/>
+    <string id="SxuuGaG7" text="{NEARBY_MOBILE_PARTY_OR_ARMY_NAME} вступил в бой на стороне противника."/>
     <string id="sXwOLNo9" text="Мне не нравится, отвернулся от врага, как это. Для меня смерть в бою лучше, чем бесчестье."/>
-    <string id="sY7exu8U" text="{NEARBY_MOBILE_PARTY_OR_ARMY_NAME} has joined the battle on your side."/>
+    <string id="sY7exu8U" text="{NEARBY_MOBILE_PARTY_OR_ARMY_NAME} присоединился к битве на вашей стороне."/>
     <string id="sYNFwOVg" text="Гражданство"/>
     <string id="szSjkkyl" text="Мы должны выбрать наш следующий объект."/>
-    <string id="szX1kIt3" text="Ваши колчаны получат +3 стрелы, когда вы вступите в бой верхом."/>
+    <string id="szX1kIt3" text="Ваши колчаны получат +3 стрелы, когда вы вступаете в бой верхом."/>
     <string id="t0Qa7ZiT" text="{FIRST_NAME} of the Covenant"/>
     <string id="t0UGXPV4" text="Я заинтересован в торговле. Какие продукты у вас есть?"/>
     <string id="T1A78Zzk" text="Установить Лимит"/>
@@ -2448,39 +2448,39 @@
     <string id="T44e39IV" text="Описание Милосердие "/>
     <string id="T4fREm7U" text="Эксперт по арбалетам"/>
     <string id="t4vWAlbr" text="Градоначальник имеет 10% шанс получить 1 связи со случайным заметным в сутки при непрерывной проектов являются активными"/>
-    <string id="T5H3L9Kw" text="Лихорадка прошла. Вы слабы, но вы чувствуете, что вам будет восстановить. Вы поднимаетесь с постели с первого раза в Дней, щурясь в солнечном свете."/>
-    <string id="t5UiDoaW" text="Курс исцеления повысить персонажа на 10%."/>
-    <string id="t5Y0gTGv" text="{ARMY} has been disbanded since the leader couldn't arrived to the point on time."/>
-    <string id="T6d7wtJX" text="Очень хорошо. Я скажу им, чтобы присоединиться к вашей партии. Удачи."/>
-    <string id="t6FNeiOC" text="{ARMY} has been disbanded since the army leader is dead."/>
-    <string id="T6JBla4b" text="Если и будет драться здесь, невинных людей пострадает тоже. Это, как вы заботитесь об этих людях?"/>
+    <string id="T5H3L9Kw" text="Лихорадка прошла. Вы слабы, но вы чувствуете, что вам надо восстановиться. Вы поднимаетесь с постели с первого раза днём, щурясь от солнечного света."/>
+    <string id="t5UiDoaW" text="Исцеление персонажа повысилось на 10%."/>
+    <string id="t5Y0gTGv" text="{ARMY} был расформирован потому как лидер не прибыл вовремя."/>
+    <string id="T6d7wtJX" text="Очень хорошо. Я скажу им, чтобы присоединились к вашей партии. Удачи."/>
+    <string id="t6FNeiOC" text="{ARMY} был распущен потому как командир умер."/>
+    <string id="T6JBla4b" text="Если и будете драться здесь, невинные люди пострадают тоже. Это, так вы заботитесь об этих людях?"/>
     <string id="T6sZmiMQ" text="Cinnamon {FIRST_NAME}"/>
     <string id="T7QCX5Ho" text="Катапульты на 30% более эффективным."/>
-    <string id="t8TfagYL" text="Дворяне рекомендуется для укрепления своих поместьях, и могут реквизировать рабочую силу и материалы, чтобы сделать так."/>
+    <string id="t8TfagYL" text="Дворяне нужны для укрепления своих поместий, они могут распоряжаться рабочей силой и материалами, чтобы добится результата."/>
     <string id="tam7KZni" text="Сел восстанавливаться быстрее, чем обычно после того как проведены обыски"/>
     <string id="TauRjAud" text="{NAME} of the {FACTION}"/>
-    <string id="taz5cAtw" text="You failed to train the {YOUNG_HERO.LINK} enough as {QUEST_GIVER.LINK} expected. {?QUEST_GIVER.GENDER}She{?}He{\?} is disappointed."/>
-    <string id="tb0gqxDZ" text="Мы лежали в засаде в деревне. Когда они появятся, мы весной. Если вы присоединитесь к нам, я думаю, у нас есть хорошие шансы избавиться от этой напасти, прежде чем они убивают нас по одному."/>
+    <string id="taz5cAtw" text="Вы не смогли натренировать {YOUNG_HERO.LINK} в достаточном количестве {QUEST_GIVER.LINK} как и ожидалось. {?QUEST_GIVER.GENDER}Она{?}Он{\?} разочарован."/>
+    <string id="tb0gqxDZ" text="Мы будем в засаде в деревне. Они появятся весной. Если вы присоединитесь к нам, я думаю, у нас есть хорошие шансы избавиться от этой напасти, прежде чем они убьют нас по одному."/>
     <string id="Tbedapqy" text="Торговля казнь для лошадей -10%."/>
-    <string id="tbehDX9t" text="Snotnose {FIRST_NAME}"/>
+    <string id="tbehDX9t" text="Сопляк {FIRST_NAME}"/>
     <string id="tbSMt926" text="Я принимаю твой вызов!"/>
     <string id="tBx7XXps" text="Типы"/>
-    <string id="Tcux6Sru" text="You have failed to defeat all {TOTAL_COUNT} {BRIGAND_TYPE} parties in time as {QUEST_GIVER.LINK} has asked. {?QUEST_GIVER.GENDER}She{?}He{\?} is very disappointed."/>
+    <string id="Tcux6Sru" text="Вам не удалось победить все {TOTAL_COUNT} {BRIGAND_TYPE} отряды вовремя {QUEST_GIVER.LINK} как просил. {?QUEST_GIVER.GENDER}Она{?}Он{\?} очень разочарован."/>
     <string id="TdEtKohk" text="Ступень 2 или выше войска, необходимые для этого вопроса!"/>
     <string id="tdvnKIyS" text="Никогда не ум"/>
-    <string id="TdwKwExD" text="Спасибо. Вы можете найти караван только за пределами населенного пункта."/>
+    <string id="TdwKwExD" text="Спасибо. Вы можете найти караван за пределами населенного пункта."/>
     <string id="tE0u8uoS" text="Крепкий"/>
-    <string id="tetGlwTx" text=" {PARTY_NAME} finance help"/>
-    <string id="TEUVTPIa" text="Ну, мы тут отдыхаем в городе, поэтому наша информация является, наверное, совсем устарела."/>
-    <string id="Tf60kO2U" text="Очень хорошо. Я попрошу пастухи должны быть готовы сопровождать вашу партию сразу. Пожалуйста, будьте осторожны, направляя стадо. Некоторые незначительные жертвы в порядке. Но как минимум половина стада должна быть доставлена."/>
-    <string id="TFy2VYtM" text="Бухгалтер Зернохранилище "/>
-    <string id="tGFgar0U" text="Я не хочу въезжать в город. Просто проезжали мимо."/>
-    <string id="tGI135jv" text="Ah - I don't know of any right now. That's a bit unusual though. Must be the wars.[ib:warrior][rb:unsure]"/>
+    <string id="tetGlwTx" text=" {PARTY_NAME} Финансовая помощь"/>
+    <string id="TEUVTPIa" text="Ну, мы тут отдыхаем в городе, поэтому наша информация немного устарела."/>
+    <string id="Tf60kO2U" text="Очень хорошо. Я попрошу пастухов быть готовыми сопровождать ваш отряд сразу. Пожалуйста, будьте осторожны, направляя стадо. Некоторые незначительные жертвы допускаются. Но как минимум половина стада должна быть доставлена."/>
+    <string id="TFy2VYtM" text="Бухгалтер Зернохранилища "/>
+    <string id="tGFgar0U" text="Я не хотел въезжать в город. Просто проезжал мимо."/>
+    <string id="tGI135jv" text="Ah - Я сейчас никого не знаю. Это немного необычно. Может потому что, войны.[ib:warrior][rb:unsure]"/>
     <string id="TgOwisdD" text="Лесные Предания"/>
     <string id="TgQphdNk" text="Уверяю вас, мужчины знают, как убивать и умирать. Что вы думаете?"/>
     <string id="TGYJUUn0" text="Перейти на."/>
     <string id="THz06NQD" text="Пора помириться"/>
-    <string id="TIMRZU0I" text="Что звучит хорошо. Но я не могу нанять сейчас больше мужчин."/>
+    <string id="TIMRZU0I" text="Что звучит хорошо. Но я не могу нанять сейчас больше людей."/>
     <string id="TIqdvtCL" text="Уважительное Оппозиции"/>
     <string id="tiTFeYkB" text="Промоутер"/>
     <string id="Tj8bGW4b" text="Если мужчина и женщина уважают друг друга, политика не должна разделять их."/>
